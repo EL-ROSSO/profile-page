@@ -1,2 +1,2 @@
 # profile-page
-this is my profile page
+HELLO WELCOME TO MY PROFILE PAGE
