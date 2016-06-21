@@ -1,4 +1,25 @@
 body{
 	background-color: orange;
 	color: white;
+	font-family: Arial;
+
+}
+h1{
+	color:white;
+}
+
+#meme{
+	height: 300px;
+	width: 300px;
+}
+
+#textM{
+	position: absolute;
+	left:100px;
+}
+
+#photo{
+	position: absolute;
+	left:0;
+
 }
